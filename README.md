@@ -4,7 +4,7 @@
 
 Authors : Ratul Kishore Saha, Tiash Ghosh, Mamata Jenamani, Aurobinda Routray, Sanjai Kumar Singh
 
-This repository contains the source code to perform CUDA implementation of coherence algorithm and evaluation with test data.
+This repository contains the source code to perform CUDA implementation of coherence algorithm and evaluation on test data.
 
 
 
