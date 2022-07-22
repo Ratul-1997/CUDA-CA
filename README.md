@@ -17,6 +17,9 @@ This repository contains the source code to perform CUDA implementation of coher
 * "Output" folder is requied to save the results. 
 * "Results" folder contains the results of the algorithms in '.npy' format on test data. 
 
+## Data
+Please download the data from the following link : https://drive.google.com/file/d/1MmuCt4bT4d6QFn7uhl9qDoAT_tA9sJvN/view?usp=sharing
+
 ## Setup
 
 ## prerequisites
