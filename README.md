@@ -1,8 +1,7 @@
-# CUDA-CA: A CUDA-based Implementation of Coherence Algorithms for Detecting Seismic Faults in Large Seismic Volumes.
+# CUDA-CA
 
 
 
-Authors : Ratul Kishore Saha, Tiash Ghosh, Mamata Jenamani, Aurobinda Routray, Sanjai Kumar Singh
 
 This repository contains the source code to perform CUDA implementation of coherence algorithm and evaluation on test data.
 
@@ -41,11 +40,11 @@ Link : https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html
 
 The code has been tested using packages of:
 
-* pip install numpy
-* pip install scipy 
-* pip install vtk
-* pip install mayavi
-* pip install numba 
+* pip install numpy==1.19.3
+* pip install scipy==1.7.1
+* pip install vtk==9.1.0
+* pip install mayavi==4.8.0
+* pip install numba==0.55.2
 
 ## Running  the scripts
 
