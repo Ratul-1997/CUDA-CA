@@ -1,4 +1,5 @@
-# CUDA-CA
+# Fast and Parallel Coherence Algorithms for Fault Detection in Large Seis-
+mic Volumes: A CUDA-based Implementation
 
 
 
